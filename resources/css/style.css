@@ -1,3 +1,33 @@
 html {
   text-align: center;
+  font-family: Helvetica;
+
+}
+
+.hero {
+  background-image: url(/Users/Code/Desktop/Projects/Broadway/resources/Images/the-flatiron-building.png);
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.btn-nav {
+  color: white;
+  font-size: 18px;
+}
+
+.process {
+  font-size: 32px;
+  font-weight: bold;
+
+}
+
+.identify,
+.understand,
+.execute {
+  font-size: 23px;
+  font-weight: bold;
 }
