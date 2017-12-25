@@ -1,7 +1,6 @@
 html {
   text-align: center;
   font-family: Helvetica;
-
 }
 
 .hero {
@@ -11,7 +10,6 @@ html {
 
 h1 {
   font-size: 70px;
-  font-weight: bold;
 }
 
 .btn-nav {
@@ -19,15 +17,38 @@ h1 {
   font-size: 18px;
 }
 
-.process {
+.supporting h2 {
   font-size: 32px;
-  font-weight: bold;
-
 }
 
-.identify,
-.understand,
-.execute {
+h3 {
+  font-size: 23px;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+.supporting-item p {
+  font-size: 14px;
+}
+
+
+
+.design {
+  background-image: url(/Users/Code/Desktop/Projects/Broadway/resources/Images/the-flatiron-building.png);
   font-size: 23px;
   font-weight: bold;
+  color: white;
+}
+
+.footer {
+  background-color: dimgray;
+  text-align: left;
+  font-size: 11px;
+  color: white;
+}
+
+div {
+  display: block;
 }
